@@ -88,6 +88,10 @@ compare_images("photo.png", "recovered.png", diff_output="diff.png", diff_thresh
 - **Robust extraction** - Handles both `fgColor` and `start_color` patterns
 - **CI-friendly** - Threshold-based pass/fail for automated testing
 
+## Website
+
+Try it online: **https://excelart.berta.one**
+
 ## License
 
-MIT
+MIT License - Copyright (c) 2025 Rondanini Publishing Ltd
