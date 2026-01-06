@@ -7,11 +7,19 @@
 # Environment
 .env
 .env.local
+.env.*
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Build
+# Build & Distribution
 dist/
 build/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
